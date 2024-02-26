@@ -1,8 +1,9 @@
 # far2m-portable
-Help to make portable version FAR2M using LXC technology (build inside container Ubuntu 16)
+Scripts for help to make portable version FAR2M using LXC technology (build inside container Ubuntu 16)
 Scripts adopted for FAR2M [Original from https://github.com/unxed/]
 
-For make portable version far2m_portable.run run lxc-far2m-portable.sh
+Just run lxc-far2m-portable.sh
+on Ubuntu 22+ to build portable far2m standalone executable far2m_portable.run
 
 ps:
 dont try create portable version with plugin NETCFG! (can't make on Ubuntu 16)
