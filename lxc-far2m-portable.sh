@@ -26,4 +26,3 @@ sudo chmod +r -R /var/lib/lxc/far2m
 sudo cp /var/lib/lxc/far2m/rootfs/root/far2m/far2m/build/far2m_portable.run .
 sudo lxc-stop -n far2m
 sudo lxc-destroy -n far2m
-
