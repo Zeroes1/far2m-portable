@@ -13,4 +13,3 @@ chmod +x far2medit
 
 find . -type f -iname "*.broker" -exec chmod +x {} \;
 find . -type f -iname "*.sh" -exec chmod +x {} \;
-
